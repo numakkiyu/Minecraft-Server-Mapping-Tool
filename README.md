@@ -17,5 +17,5 @@ PyQt5
 dnspython
 requests
 ```
-
+# 注意，该文件代码还没有更新， 请不要Git ，请转到释放Releases那里进行下载最新版本
 
